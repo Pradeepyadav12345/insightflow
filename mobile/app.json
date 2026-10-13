@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "InsightFlow AI",
+    "slug": "insightflow-ai",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "assetBundlePatterns": ["**/*"],
+    "splash": {
+      "backgroundColor": "#07111f"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#07111f"
+      }
+    }
+  }
+}
